@@ -1,9 +1,10 @@
 ## We burn, but we burn with care.
 
 Welcome to BurnWithCare project. 
-This project is 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is designed for a safe, organized and eco-friendly surrounding for commemorating the dead in Chinese culture. 
+
+
 
 ### Markdown
 
