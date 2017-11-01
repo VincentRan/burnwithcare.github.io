@@ -14,3 +14,6 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 <p>Source: tripadvisor.com</p>
 
 ### Check our flyer!
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/23032529_1970659396525676_7014121103759761957_n.jpg?oh=529f33024fd177beb7b740292a0876ad&oe=5A775004"/>
+
+### What do scholars think?
