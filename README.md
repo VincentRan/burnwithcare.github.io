@@ -41,3 +41,5 @@ This project is designed for drawing some consideration towards the use of incen
     What do these incense and joss paper made of?</p>
     
    <p>This is not a call out. Instead, just trigger some thoughts upon how do we deal with traditional culture practice.
+  
+  ### Behind the project
