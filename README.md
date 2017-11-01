@@ -42,4 +42,4 @@ This project is designed for drawing some consideration towards the use of incen
     
    <p>This is not a call out. Instead, just trigger some thoughts upon how do we deal with traditional culture practice.
   
-  ### Behind the project
+  ### <a href="https://github.com/VincentRan/BehindBurnWithCare/blob/master/README.md">Behind the project</a>
