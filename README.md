@@ -12,3 +12,5 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 
 <img src="https://media-cdn.tripadvisor.com/media/photo-s/0e/5b/f3/8e/candles-incense-and-joss.jpg"/>
 <p>Source: tripadvisor.com</p>
+
+### Check our flyer!
