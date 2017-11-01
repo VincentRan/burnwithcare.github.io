@@ -33,5 +33,11 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
  ### What do we do in the future?
  <p>Instead of challenging culture and tradition, perhaps we should be careful when using incense and joss paper.</p>
  <p>Consider these questions:</p>
+ <img src="http://schoolofthinking.org/wp-content/uploads/2017/08/Emoji_Icon_-_Thinking_grande.png"/>
+ <p>Source: schoolofthinking.org</p>
  
+ <p>Do I really need to burn that much incense and joss paper?
+    Can I just burn these incense and joss paper anywhere I wish?
+    What do these incense and joss paper made of?</p>
+    
   
