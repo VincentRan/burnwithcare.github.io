@@ -29,3 +29,9 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/23032516_1970672706524345_5966524318265858386_n.jpg?oh=8b381c70af5d8307440b604ce4aeaf6b&oe=5AA5DD41"/>
 
 <p>As you can see, the health and environment issue is concerned by scholars. 
+  
+ ### What do we do in the future?
+ <p>Instead of challenging culture and tradition, perhaps we should be careful when using incense and joss paper.</p>
+ <p>Consider these questions:</p>
+ 
+  
