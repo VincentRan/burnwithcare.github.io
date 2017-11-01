@@ -21,4 +21,4 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 
 <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/22886131_1970668416524774_5479091614506479978_n.jpg?oh=f6b55ef94c55b89c17623f634686f884&oe=5A77FD6F"/>
 
-<p>To get a better understanding, click <a href="https://voyant-tools.org/?corpus=da1ac0f050a3387a76e2db03cee4c48e&visible=45&view=Cirrus"here</a> </p>
+<p>To get a better understanding, click <a href="https://voyant-tools.org/?corpus=da1ac0f050a3387a76e2db03cee4c48e&visible=45&view=Cirrus">here</a> </p>
