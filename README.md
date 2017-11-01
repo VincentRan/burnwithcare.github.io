@@ -6,7 +6,7 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 
 
 
-### Markdown
+### Background Information
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
