@@ -17,3 +17,6 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 <img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/23032529_1970659396525676_7014121103759761957_n.jpg?oh=529f33024fd177beb7b740292a0876ad&oe=5A775004"/>
 
 ### What do scholars think?
+<p>There are peer reviewed journal articles on this subject. They are mostly from a health-concerned point of view. However, we are not going to analyze any articles here, what we are gonna do is showing you some most frequently used terms in three most sited articles from UVIC library database, see results below.</p>
+
+<img src="https://www.facebook.com/photo.php?fbid=1970668416524774&set=a.1970668399858109.1073741832.100007449046203&type=3&theater"/>
