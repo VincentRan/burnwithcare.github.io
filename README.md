@@ -8,7 +8,7 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 
 ### Background Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://en.wikipedia.org/wiki/Incense">Incense</a> and joss paper are commonly used in Chinese religious and ritual practice. 
 
 ```markdown
 Syntax highlighted code block
