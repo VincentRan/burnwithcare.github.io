@@ -2,7 +2,7 @@
 
 Welcome to BurnWithCare project. 
 
-This project is designed for a safe, organized and eco-friendly surrounding for commemorating the dead in Chinese culture. 
+This project is designed for a safe, organized, healthy and eco-friendly surrounding in terms of commemorating the dead in Chinese culture. 
 
 
 
