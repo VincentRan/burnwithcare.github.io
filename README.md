@@ -8,7 +8,7 @@ This project is designed for a safe, organized, healthy and eco-friendly surroun
 
 ### Background Information
 
-<a href="https://en.wikipedia.org/wiki/Incense">Incense</a> and joss paper are commonly used in Chinese religious and ritual practice. 
+<a href="https://en.wikipedia.org/wiki/Incense">Incense</a> and <a href="https://en.wikipedia.org/wiki/Joss_paper">joss paper</a> are commonly used in Chinese religious and ritual practice. However, due to the massive burning of these products, damage could be caused towards environment and health. This project is meant for educating the majority users of incense and joss paper based on how to use these products effectively, eco-friendly and healthily. One thing need to be addressed is that this project never intend to challenge the culture and tradition of related territories and ethnic groups.
 
 ```markdown
 Syntax highlighted code block
