@@ -30,6 +30,10 @@ This project is designed for drawing some consideration towards the use of incen
 
 <p>As you can see, the health and environment issue is concerned by scholars. 
   
+<P>But still, what if people still want to burn joss paper?
+  It is a cultural phenomena, something we cannot simply eliminate.
+  Therefore, a joss paper burning site could be considered, see image below.</p>
+  
  ### What do we do in the future?
  <p>Instead of challenging culture and tradition, perhaps we should be careful when using incense and joss paper.</p>
  <p>Consider these questions:</p>
