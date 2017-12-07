@@ -37,7 +37,7 @@ This project is designed for drawing some consideration towards the use of incen
 <p>This is a concept map of joss paper buring side. Basically, there should be good air circulation, available fire extinguishers.</p>
 
 <p>A concept super cemetery which include stores selling goods for mourning, such as flowers, food and drinks, alcohol and tobacco.</p>
-<p>Assuming such super cemetery exist, before you visit, would you like to take a few minutes for a <a href="file:///C:/Users/Owner/Downloads/Joss%20Paper%20Questionnaire.html">questionnaire</a> </p>
+<p>Assuming such super cemetery exist, before you visit, would you like to take a few minutes for a <a href="http://philome.la/VincentVastur/joss-paper-testing">questionnaire</a> </p>
   
  ### What do we do in the future?
  <p>Instead of challenging culture and tradition, perhaps we should be careful when using incense and joss paper.</p>
